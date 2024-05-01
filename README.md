@@ -1,1 +1,2 @@
-# This repository was created for the 10th Academy, Week 1 Challenge
+# This repository is for the 10 Academy Week 1 Challenge.
+
