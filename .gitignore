@@ -174,3 +174,5 @@ data/
 week1_env/
 *.csv
 *.csv.zip
+ta-lib/
+*.tar.gz
